@@ -1,12 +1,12 @@
 {
-  "name": "sass-starter-project",
-  "version": "1.0.0",
+  "name": "software-engineering-project",
+  "version": "2.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kevin Powell",
+  "author": "Viranchi Dakhare",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.7",
